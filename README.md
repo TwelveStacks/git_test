@@ -1,5 +1,4 @@
 # git_test
-<<<<<<< HEAD
 Hello Odin
 =======
 # Hello
